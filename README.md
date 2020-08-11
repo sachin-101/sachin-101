@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on @OpenMined/PyGrid.
+- 🔭 I’m currently working on [@OpenMined/PyGrid](https://github.com/OpenMined/PyGrid/).
 - 💬 Ask me about Privacy preserving ML.
